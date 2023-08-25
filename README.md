@@ -1,4 +1,4 @@
-Visit Café Royale's website : [https://addyjoad.github.io/Cafe-web/]
+Visit Café - The Coffee House website : [https://addyjoad.github.io/Cafe-web/]
 
 # Café - The Coffee House - A Digital Oasis of Taste and Ambience
 
